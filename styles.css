@@ -1,0 +1,71 @@
+.TestNG {
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #5d79507e;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.238);
+
+  }
+  
+  input[type="text"] {
+    width: calc(50% - 5px);
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 13px;
+    margin: 10px 3.5px;
+    background-color: #e7010196;
+    color: #f6f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f55188b3;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  .name {
+    text-align: center;
+  }
+  .table {
+    text-align: center;
+  }
+  .button-container {
+    text-align: center;
+    width:calc(80% - 40px)
+  }
+  #result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #bddaea;
+    border-radius: 10px;
+    font-size: 24px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.238);
+    color: #540c0c;
+  }
+  .clear-button {
+    padding: 7px; /* Giảm padding để làm cho nút nhỏ hơn */
+    font-size: 12px; /* Giảm kích thước font chữ để làm cho nút nhỏ hơn */
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .input-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #f3f3f3;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  
